@@ -33,7 +33,7 @@ $ sudo apt-get install dfu-programmer arduino-mk arduino-core arduino
 now prepare your arduino one [hacking the firmware ], we need put the arduino one in DFU mode for flash the 'atmega16u2'  with the correct firmware (you could see the firmware necesary in the folder firmware);
 
 1. **DFU MODE**:
-first you need determinate what version is your arduino one, why? the version determine what is the correct way for put the arduino in dfu mode.
+first you need determinate what is the version that your arduino one have, why? the version determine what is the correct way for put the arduino in dfu mode.
 
 
 
